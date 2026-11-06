@@ -1,0 +1,1 @@
+This is just me learning C from Harvard's CS50: Introduction to Computer Science. I am not publishing my code to get graded, this is just me learning C from it and using GitHub to publish my worked solutions.
